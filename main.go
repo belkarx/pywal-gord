@@ -1,4 +1,5 @@
 package main
+//themes for cordless/gord based on pywal colors
 
 import (
 	"encoding/json"

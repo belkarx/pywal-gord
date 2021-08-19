@@ -22,13 +22,13 @@ Before:
 
 After:
 
-![After](images/gord-colors-purple.png "After")
+![After](img/gord-colors-purple.png "After")
 
 ### Example 2
 Before:
 
-![Before](images/gord-colors-before.png "befire")
+![Before](img/gord-colors-before.png "before")
 
 After:
 
-![After](images/gord-colors.png "After")
+![After](img/gord-colors.png "After")

@@ -8,5 +8,27 @@ cd pywal-gord
 ./pywal-gord > ~/.config/gord/theme.json
 ```
 ## Notes
-This also works with cordless, just replace the `> ~/.config/gord/theme.json` with `~/.config/cordless/theme.json`
+This also works with cordless, just replace the `> ~/.config/gord/theme.json` with `> ~/.config/cordless/theme.json`
+
 Run this script every time you reload your wal so your colors remain updated
+
+## Images
+The effect that this script has on coloring:
+
+### Example 1
+Before:
+
+![before](img/gord-colors-before-purple.png "Before")
+
+After:
+
+![After](images/gord-colors-purple.png "After")
+
+### Example 2
+Before:
+
+![Before](images/gord-colors-before.png "befire")
+
+After:
+
+![After](images/gord-colors.png "After")
